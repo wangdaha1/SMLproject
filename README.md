@@ -1,3 +1,3 @@
 # SMLproject
 
-codes for course Statistical Machine Learning
+codes for the projects of course Statistical Machine Learning
